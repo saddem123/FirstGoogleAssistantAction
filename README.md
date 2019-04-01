@@ -13,5 +13,5 @@
 5. Build out your agent and business logic by adding function handlers for Dialogflow actions.
 
 
-#Big think to :
+# Big think to :
 1. https://codelabs.developers.google.com/codelabs/actions-1/index.html?index=..%2F..index#1
